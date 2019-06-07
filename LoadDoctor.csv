@@ -1,0 +1,101 @@
+DoctorKey,AreaOfMedicine,EmailAddress,FirstName,LastName,PhoneNumber,AddressLine1,AddressLine2,City,State,Zip
+D1,INTERNAL MEDICINE,parkerwilliam@murphy-figueroa.net,Natalie,Banks,895-508-9120,1501 Jenkins Motorway,Suite 494,Lake Kristenshire,Arizona,46297
+D2,OBSTETRICS AND GYNECOLOGY,nicholas93@perkins.com,Scott,Owens,293.684.1329,9411 Long Mountain,Apt. 119,South Nicoleberg,Ohio,58580
+D3,PATHOLOGY,moorejames@mcdowell.com,Jennifer,Hale,(016)480-9390x3396,974 Amanda Forest,Apt. 384,Lake Stephenchester,Iowa,89693
+D4,NEUROLOGY,jeremy77@mitchell-rodriguez.info,Daniel,Bryant,912.885.1315,997 Douglas Junctions Suite 219,Suite 333,Coleberg,Vermont,89688
+D5,PEDIATRICS,tdavis@riddle-gay.com,Alec,Schroeder,2931029242,3347 Cindy Springs Apt. 528,Apt. 768,Kimberlyfort,Ohio,18788
+D6,MEDICAL GENETICS,howardanthony@yahoo.com,Tamara,Maxwell,(195)744-6029x5671,403 Elizabeth Gateway Suite 408,Suite 805,East Glenn,California,36215
+D7,OBSTETRICS AND GYNECOLOGY,patrick13@hotmail.com,Brandy,Barnes,523.929.0224x7014,695 Sheryl Brook Apt. 638,Apt. 436,Port Jamesmouth,Alaska,03971
+D8,PSYCHIATRY,dennis15@yahoo.com,Alexander,Johnson,987-529-6276x02061,67800 Logan Trace Suite 387,Apt. 877,Kennedyville,Alaska,03130
+D9,EMERGENCY MEDICINE,rsexton@hotmail.com,Tracey,Russell,762.716.8876x8857,34934 Sean Lodge Apt. 585,Apt. 224,South Williamport,South Carolina,80222
+D10,ANESTHESIOLOGY,staylor@gmail.com,Erin,Porter,460-204-6769x8143,5005 Robert Mall,Suite 123,West Joshuafurt,Louisiana,97738
+D11,EMERGENCY MEDICINE,david78@gmail.com,Lisa,Vincent,001-370-606-3245,54466 Good Crossing Suite 818,Suite 787,Port Hannah,Maryland,20023
+D12,OPHTHALMOLOGY,angela50@price-flores.com,Mark,Bates,490-458-5748x192,16730 Arthur Turnpike,Apt. 686,North Maria,Kansas,68057
+D13,ALLERGY & IMMUNOLOGY,qochoa@hotmail.com,Cindy,Myers,(282)187-0987x07600,21504 Rojas Spring Suite 570,Suite 449,Matthewsshire,South Dakota,67472
+D14,ALLERGY & IMMUNOLOGY,qgonzalez@hogan.com,George,Kane,479-129-8692,2030 Norris Flat Suite 830,Apt. 690,Riddletown,Wisconsin,29219
+D15,RADIATION ONCOLOGY,amber22@little.biz,Adam,Simpson,635-280-3321,723 Danny Falls,Apt. 485,Hartmouth,Oklahoma,20004
+D16,RADIATION ONCOLOGY,yholmes@yahoo.com,Frank,White,765-726-4196x424,2941 Werner Tunnel,Suite 344,Cartershire,South Carolina,83350
+D17,NEUROLOGY,osparks@yahoo.com,Julie,Berger,+1-450-806-2507x1376,58159 Lopez Stravenue Apt. 655,Apt. 259,Rachelmouth,Nevada,68083
+D18,ALLERGY & IMMUNOLOGY,kyle58@yahoo.com,Rebecca,Wood,532.459.8606,93758 Williams Walks,Apt. 214,Mooreton,Wyoming,98070
+D19,SURGERY,hickscynthia@yahoo.com,Lisa,Collins,650.966.3144,1695 David Station Apt. 473,Suite 928,Port Jonathan,Nebraska,84277
+D20,UROLOGY,johnsonfrank@melendez.com,Christine,Johnson,(858)386-3232x1042,420 Nicole Turnpike Suite 950,Suite 978,Buchananshire,South Dakota,05474
+D21,ALLERGY & IMMUNOLOGY,vmontgomery@peterson.org,Amy,Ramsey,046.506.9866x2545,95243 Olson Place Suite 696,Suite 277,Nancymouth,South Dakota,57691
+D22,UROLOGY,jason09@yahoo.com,Alex,Zimmerman,+1-462-205-7537,37886 Gloria Passage,Suite 231,East Daryl,Tennessee,20331
+D23,NUCLEAR MEDICINE,maria93@palmer-peters.com,Daniel,Costa,(941)826-2884,7852 William Bypass,Suite 011,Nicholsonhaven,Maine,67699
+D24,MEDICAL GENETICS,gary26@gmail.com,Arthur,Cummings,(979)455-8962,72664 Ronald Shores Suite 045,Suite 040,Victoriamouth,Kentucky,73301
+D25,RADIATION ONCOLOGY,ymann@johnson.com,Cynthia,Hendrix,693-844-7096,87539 Amy Courts Apt. 867,Apt. 803,West Jamesside,Utah,91834
+D26,OBSTETRICS AND GYNECOLOGY,aaron53@perez.com,Valerie,Brown,001-419-526-9012x9717,018 Jennifer Parks,Suite 391,Carterville,Vermont,25916
+D27,ANESTHESIOLOGY,samantha05@alvarez.net,Daniel,Knox,(633)114-9063x88366,143 Ellison Estate,Suite 460,Port Matthew,New Jersey,86411
+D28,OPHTHALMOLOGY,corywilson@yahoo.com,Christopher,Gonzalez,038.042.5020,56781 Hamilton Throughway,Suite 198,East Donald,Kansas,36062
+D29,PEDIATRICS,ericwallace@hotmail.com,Kendra,Lewis,(863)138-1940x810,43002 David Spur,Suite 726,North Kathleenfurt,Montana,49682
+D30,SURGERY,thompsonaaron@yahoo.com,Matthew,Clarke,(219)588-6375x82482,1243 Wesley Passage Apt. 007,Apt. 544,Millerton,North Carolina,57393
+D31,NEUROLOGY,amorales@ellis.com,Samantha,Bailey,806-108-7909,075 Bennett Dale,Apt. 740,Elizabethmouth,Rhode Island,38006
+D32,DERMATOLOGY,jesse11@morgan.com,Roberto,Barnett,090.242.4607x922,774 Bell Inlet,Apt. 144,Collinsfurt,New York,55728
+D33,PHYSICAL MEDICINE & REHABILITATION,kperry@hotmail.com,Lori,Schwartz,+1-467-506-7368x4133,58065 Schneider Forges,Suite 109,East Danielton,New Jersey,82859
+D34,UROLOGY,christopherstone@sanchez-smith.com,Holly,Wheeler,(204)273-5530,15789 David Dam,Suite 603,Perryshire,New Mexico,34503
+D35,RADIATION ONCOLOGY,cynthia06@hotmail.com,Robert,Singleton,323-084-4486x825,23475 Grant Station Suite 009,Apt. 242,Simpsonport,Minnesota,39174
+D36,INTERNAL MEDICINE,pamelamoran@gmail.com,Amber,Mathis,+1-305-097-3379x9335,3379 Mark Island,Suite 683,New Kimberlyland,Idaho,30522
+D37,UROLOGY,njames@cervantes-jones.com,Michael,Phelps,(215)661-1531,88870 Farrell Via Suite 289,Suite 507,Lisachester,Montana,07968
+D38,UROLOGY,gregory35@jimenez.com,Patrick,Smith,001-302-047-3825x46726,8228 Lisa Isle Apt. 025,Apt. 555,North Ryan,Colorado,99512
+D39,PATHOLOGY,ilevine@gmail.com,Jacob,Wallace,060.583.0422,549 Gomez Crescent Suite 679,Apt. 413,Andreaton,Ohio,71643
+D40,OBSTETRICS AND GYNECOLOGY,sarahanson@hotmail.com,Sandra,Knight,(843)317-5083x9021,675 Reeves Cove,Apt. 477,Lisaville,Washington,81447
+D41,MEDICAL GENETICS,margaret73@gmail.com,Nancy,Dougherty,940.883.0405,2815 Cindy Valleys,Suite 871,Whitechester,Arizona,70007
+D42,SURGERY,qwallace@hotmail.com,Laura,Potts,632-205-7013,0436 Smith Spring,Suite 262,East Carlosfurt,Louisiana,39423
+D43,OPHTHALMOLOGY,collinscrystal@gmail.com,Tyler,Harmon,+1-251-563-9229,2745 Johnny Port Apt. 164,Apt. 075,East Carol,West Virginia,04762
+D44,SURGERY,montescheryl@gmail.com,Michael,Hernandez,001-878-009-8827x10069,6479 Bruce Fords,Suite 048,Westfort,Oregon,98472
+D45,PREVENTIVE MEDICINE,collinsrussell@hotmail.com,Michele,Garcia,1246280044,3245 Lam Squares Apt. 458,Apt. 018,West Mark,New Mexico,49919
+D46,MEDICAL GENETICS,bennettcolin@edwards.biz,Michael,Peterson,(415)413-1445x4878,6405 Francis Skyway,Suite 855,Teresashire,Washington,06390
+D47,PSYCHIATRY,llambert@daniels-newman.com,Adrian,Smith,806-188-9290x58299,329 Powell Junction,Suite 177,New Erikville,Tennessee,85931
+D48,PREVENTIVE MEDICINE,spalmer@gmail.com,Robert,Mitchell,8850522874,082 Laura Turnpike Suite 391,Apt. 742,Wyattborough,Connecticut,38373
+D49,ALLERGY & IMMUNOLOGY,gina58@ward.biz,Philip,Willis,272.965.9274,469 Collin Mill,Suite 660,Martinezside,Georgia,73063
+D50,RADIATION ONCOLOGY,andrewsgarrett@smith-harrison.com,John,Wilson,354-388-0772x077,13133 Wiggins Burgs,Suite 383,Smithside,Idaho,73154
+D51,PREVENTIVE MEDICINE,amandamckenzie@gmail.com,Adam,Hammond,5009929525,8713 Phillips Stravenue,Apt. 336,Port Nicole,Oregon,38305
+D52,UROLOGY,david84@hotmail.com,Sabrina,Friedman,+1-277-611-9866x31233,28704 Terrence Spring,Suite 728,Barbaraburgh,Oklahoma,55317
+D53,MEDICAL GENETICS,janicecastro@mckinney-bell.com,Keith,Leach,+1-503-625-0517x731,6420 Kevin Stravenue,Apt. 350,Lake Mariafort,Oklahoma,96797
+D54,OBSTETRICS AND GYNECOLOGY,carrdenise@obrien.com,Timothy,Taylor,001-124-501-8411x755,0121 Murray Mews,Suite 060,East Rachael,Oklahoma,02045
+D55,PATHOLOGY,matthew24@clay.com,April,Lewis,733.746.0482x786,4468 Harris Tunnel Apt. 333,Apt. 571,Jessicatown,South Dakota,36422
+D56,PEDIATRICS,hernandezsarah@gmail.com,Wanda,Wright,467-996-8495,1362 Reese Plaza Suite 201,Apt. 400,Luceroborough,New Hampshire,02807
+D57,PSYCHIATRY,angelamartinez@hotmail.com,George,Lewis,0565800472,91638 Cody Cape,Apt. 598,South Kelly,Maryland,83237
+D58,DIAGNOSTIC RADIOLOGY,leejoseph@hotmail.com,George,Meyer,333-080-6416,0638 Garcia Center Suite 544,Apt. 757,Adamsborough,South Dakota,50294
+D59,SURGERY,steven94@gmail.com,Deborah,Anderson,2608026936,9688 Rachel Run,Apt. 683,Cristianstad,Mississippi,96807
+D60,PSYCHIATRY,thomas94@gmail.com,Nicole,Warren,315.803.6282x336,282 Mitchell Village Apt. 723,Suite 570,New Morganburgh,New Mexico,34591
+D61,EMERGENCY MEDICINE,rkline@gmail.com,Heidi,Mathews,334.042.6377x1173,0115 Erica Circle Suite 685,Suite 874,Knightside,Michigan,05472
+D62,PSYCHIATRY,omayer@gutierrez.info,Christina,Young,+1-550-685-2969,54885 Robert Dale,Suite 811,New Garrett,Vermont,47163
+D63,PSYCHIATRY,robert65@flowers.info,Shelly,Glass,571-868-0584x213,94455 Wade Greens,Suite 481,East Josephton,Washington,99607
+D64,UROLOGY,xwilson@gmail.com,Kevin,Mckinney,405.817.3451x73192,1155 Randy Underpass Suite 771,Apt. 903,Port Michelestad,Minnesota,85780
+D65,RADIATION ONCOLOGY,james71@blankenship-johnston.com,Aaron,Hardy,355.453.0781,28854 Hailey Vista Suite 728,Suite 915,Debrafurt,Wyoming,71631
+D66,ANESTHESIOLOGY,floresgregory@hotmail.com,Christopher,Gomez,001-446-665-0243x306,1001 Charlotte Union,Suite 241,South Evanville,Maryland,36892
+D67,PSYCHIATRY,blackwellelizabeth@hotmail.com,Melanie,Miller,9995298405,3625 Taylor Tunnel,Apt. 059,South Jesse,Maine,98948
+D68,DIAGNOSTIC RADIOLOGY,randallwright@parrish-howard.biz,Christopher,Patton,746.305.7007x3532,1533 Mann Turnpike,Suite 090,Lake Nicole,Colorado,84362
+D69,ALLERGY & IMMUNOLOGY,ethanolson@gmail.com,William,Jones,365.311.9502,6894 Green Summit,Apt. 260,North Markhaven,New Mexico,49166
+D70,PEDIATRICS,aray@hotmail.com,Michael,Taylor,001-105-892-9349,4736 Williams Rest Apt. 965,Suite 591,Jacksonchester,Montana,20015
+D71,DIAGNOSTIC RADIOLOGY,garciakatherine@lewis-richardson.info,Kathleen,Rosales,(491)187-9043,15276 Hampton Springs,Apt. 659,West Adamton,Maryland,02425
+D72,PHYSICAL MEDICINE & REHABILITATION,wendysmith@hotmail.com,Brian,Thornton,(436)502-9079,012 Melissa Fort Suite 040,Suite 960,Lake Denise,Maryland,89126
+D73,FAMILY MEDICINE,jeansalas@yahoo.com,Phillip,Stewart,001-207-920-5381,1328 Silva Mission Apt. 465,Apt. 054,Danielview,Florida,84477
+D74,INTERNAL MEDICINE,stewartjoshua@williams-chapman.info,Erica,Powell,090.492.1500x56265,1850 Willis Throughway Suite 063,Apt. 687,North Johnmouth,Michigan,06390
+D75,NUCLEAR MEDICINE,kcrawford@nelson-thompson.com,Meredith,Harris,305.251.5709x04663,751 Nicholas Mall Apt. 343,Apt. 605,South Elizabethville,Montana,08946
+D76,ANESTHESIOLOGY,gillespielinda@yahoo.com,Christopher,Sexton,827.239.6601x79572,91348 Jacqueline Square Apt. 736,Apt. 095,Oliverstad,Wyoming,05340
+D77,FAMILY MEDICINE,kimberlymartin@hotmail.com,Matthew,Garcia,947-678-3817,821 Danny Ridges Suite 888,Apt. 348,Lake Douglasburgh,Arkansas,58004
+D78,UROLOGY,icortez@yahoo.com,Tammy,Miller,7901898202,03894 Richardson Via Suite 623,Suite 144,West Nicole,Alabama,41940
+D79,MEDICAL GENETICS,dicksonmichael@johnson.com,Nancy,Rosario,001-940-920-3879,49906 James Union,Apt. 519,Barnesville,Massachusetts,84102
+D80,MEDICAL GENETICS,andersonlinda@mcdonald.biz,David,Nelson,+1-735-827-1418,903 Everett Isle,Apt. 085,South Louisburgh,Florida,62363
+D81,RADIATION ONCOLOGY,ashley24@gmail.com,Pamela,Church,001-562-885-3524x48384,26845 Jacob Burgs Suite 280,Apt. 917,Lowefurt,Alabama,56572
+D82,INTERNAL MEDICINE,thomasnicholas@trujillo-murphy.com,Erin,Daniels,001-455-897-8434x167,62924 Ashley Vista,Suite 421,Joyceborough,New Mexico,05490
+D83,ALLERGY & IMMUNOLOGY,ryanjordan@fernandez.com,Brian,Lopez,+1-073-912-2635x3898,109 Olson Roads,Suite 615,West Molly,Colorado,44877
+D84,OPHTHALMOLOGY,coleanita@gmail.com,Megan,Lopez,335.058.9913,3501 Samuel Center,Apt. 542,Anthonyburgh,Kentucky,06007
+D85,PATHOLOGY,corey73@chavez.com,Amanda,Burke,001-259-877-0891x71794,816 Matthew Springs,Suite 701,Port Tara,Illinois,34851
+D86,OBSTETRICS AND GYNECOLOGY,bobbyjohnson@gmail.com,Tristan,Garza,486-331-4357x7461,22550 Sarah Ridges,Suite 745,Port Christinahaven,Alaska,57315
+D87,SURGERY,ududley@hotmail.com,Abigail,Harper,7759314350,73758 Kelly Mountains Apt. 734,Suite 760,West Beckyville,Maine,20331
+D88,INTERNAL MEDICINE,christinayoung@gmail.com,Crystal,Cobb,(113)896-6792x77924,178 Powers Ridges Suite 684,Suite 845,Kellyview,North Carolina,97081
+D89,PHYSICAL MEDICINE & REHABILITATION,erikmason@knapp.com,Jocelyn,Rogers,6274732086,62711 Harrison Ports Suite 809,Apt. 889,Juliaville,Tennessee,70073
+D90,EMERGENCY MEDICINE,cindy08@hotmail.com,Sara,Hart,(200)497-1251,3332 Williams Drive,Apt. 559,South Leah,North Carolina,53253
+D91,OBSTETRICS AND GYNECOLOGY,samanthahill@rodriguez.com,Mackenzie,Brown,752-692-2309x613,553 Kane Lodge Suite 383,Suite 303,Mahoneyborough,Wyoming,03765
+D92,RADIATION ONCOLOGY,ashleylinda@jones.com,Danny,Macias,+1-383-907-1365x796,48764 Eric Islands Apt. 450,Suite 222,New Jesse,West Virginia,97577
+D93,NUCLEAR MEDICINE,plewis@aguilar-hanson.com,Jane,Nunez,(301)959-6993,68515 Steven Groves Suite 187,Apt. 873,Vazquezfurt,Missouri,59059
+D94,DIAGNOSTIC RADIOLOGY,patrickhansen@rubio.info,Rachel,Oconnell,(329)690-1432x580,45363 Daisy Spurs,Apt. 911,South Melissaport,Virginia,57466
+D95,DERMATOLOGY,heather61@chang-martin.com,David,Brown,+1-025-270-7298,4255 Porter Highway Suite 189,Suite 716,Lake Kathleen,Iowa,27486
+D96,MEDICAL GENETICS,joseph05@stanley.com,Jose,Bryant,1529661907,4090 Henry Court,Apt. 441,Lake Garrettton,Nevada,06390
+D97,UROLOGY,ddennis@yahoo.com,Christopher,Tate,(973)646-1107,86869 Moore Highway Suite 621,Suite 147,Lake Tinamouth,Pennsylvania,43298
+D98,PREVENTIVE MEDICINE,olee@gmail.com,Jordan,Hayes,877-690-5846,3407 Kramer Inlet,Suite 963,East Williamchester,Indiana,70851
+D99,PSYCHIATRY,levicisneros@gmail.com,Barbara,Freeman,001-187-320-2266,00305 Clark Lakes Suite 924,Suite 925,Lake Jillian,New Hampshire,99594
+D100,MEDICAL GENETICS,tbuchanan@collins.com,Brandi,Barber,(041)131-9837,74668 Webb Turnpike Suite 562,Apt. 287,Cowanton,Alabama,85422
